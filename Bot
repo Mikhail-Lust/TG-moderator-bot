@@ -4,7 +4,7 @@ from aiogram.types import ChatPermissions
 from aiogram.utils import executor
 from datetime import timedelta
 
-API_TOKEN = "7869649224:AAEu6tTtcX2dqmOiT__H8Clax-VDmFZdJ_M"
+API_TOKEN = "ВАШ_ТОКЕН"
 
 logging.basicConfig(level=logging.INFO)
 
